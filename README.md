@@ -1,6 +1,6 @@
 # 
 
-<h1>Hi, I'm Juston a.k.a Cross! <br/><a href="https://github.com/cross-d-engineer">Programmer</a>, <a href="https://www.linkedin.com/in/juston-london-18919687/">UC_Engineer</a>,<br/><a href="https://www.instagram.com/starbluproductions"> Co-Founder & Exec-Producer of StarBlu Productions</a></h1>
+<h1>Hi, I'm Juston a.k.a Cross! <br/><a href="https://github.com/cross-d-engineer">Programmer</a>, <a href="https://www.linkedin.com/in/juston-london-18919687/">UC_Engineer</a>,<a href="https://www.instagram.com/starbluproductions"> Music</a></h1>
 
 <h2>👨‍💻 Coding Projects:</h2>
 
@@ -13,7 +13,7 @@
 - <b>Python</b>
   - [Automated Weekly Report Email)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular Productions</h2>
+<h2>📺 Executive Producer</h2>
 
 - [Music Projects](https://www.youtube.com/c/StarBluEntertainment)
 
