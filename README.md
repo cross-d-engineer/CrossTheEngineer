@@ -15,10 +15,10 @@
 
 <h2>📺 Popular Productions</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Music Projects](https://www.youtube.com/c/StarBluEntertainment)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h3> 🤳 Connect with me:</h3>
 
 [<img align="left" alt="Cross™ | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
 [<img align="left" alt="Juston London | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
