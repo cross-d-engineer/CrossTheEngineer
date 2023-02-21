@@ -1,4 +1,4 @@
-# 
+#
 
 <h1>Hi, I'm Juston a.k.a Cross! <br/><a href="https://github.com/cross-d-engineer">Programmer</a>, <a href="https://www.linkedin.com/in/juston-london-18919687/">UC_Engineer</a>,<a href="https://www.instagram.com/starbluproductions"> Music</a></h1>
 
@@ -14,12 +14,18 @@
 - <b>Python</b>
   - [Automated Weekly Report Email)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Executive Producer</h2>
 
+<h2> Network Admin Projects </h2>
+ -<b> <em> 🔭 Under Construction </em> </b>
+
+<h2>Voice Engineer Projects </h2>
+ -<b> <em> 🔭 Under Construction </em> </b>
+
+
+<h2> >📺 Executive Producer </h2>
 - [Music Projects](https://www.youtube.com/c/StarBluEntertainment)
 
-
-<h3> 🤳 Connect with me:</h3>
+<h6> 🤳 Connect with me:</h6>
 
 [<img align="left" alt="Cross™ | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
 [<img align="left" alt="Juston London | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
