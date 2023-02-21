@@ -6,8 +6,9 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python]
-- <b>Devoloper Intern (HTML, CSS, Word Press, NodeJS, AWS, Docker MySQL and Python)</b>
+- <b> Support Engineer </b>
   - [@Evoke Digital Marketing](https://evokedm.com/) <b><i>(Part Time)</b></i>
+  - <b> Day to day: HTML, CSS, Word Press, Docker and Python </b>
 - <b>PowerShell</b>
   - [Scripting: Embbed Credentials for Desktop Application](https://github.com/cross-d-engineer)
 - <b>Python</b>
